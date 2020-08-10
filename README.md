@@ -1,4 +1,4 @@
-# GoproDatEChanger
+# GoproDateChanger
 Fast program to preview and edit the creation and modification date of videos files.
 
 Works only on windows for now.
